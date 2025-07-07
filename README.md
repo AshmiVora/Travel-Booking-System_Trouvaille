@@ -58,13 +58,13 @@ travelbooking/
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](screenshots/homepage.png)
-
-### Login Page
-![Login Screenshot](screenshots/login.png)
+![Homepage Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/143438558/463107405-fcc40f5e-2371-4049-b9d0-fd9039948d10.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250707%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250707T084323Z&X-Amz-Expires=300&X-Amz-Signature=c86cc4356a78e3c29fb4cfd26fcab7cf14d26117fbda4ac8e34af43b708a59a1&X-Amz-SignedHeaders=host)
 
 ### Booking Interface
-![Booking Screenshot](screenshots/bookings.png)
+![Login Screenshot](https://github.com/user-attachments/assets/04a0313c-c1a8-4353-bb16-d3e7d6f1231a)
+
+### Destinations Page
+![Booking Screenshot](https://github.com/user-attachments/assets/fa2121eb-aef8-4eab-8fa7-805c39c64c23)
 
 ##  Installation Instructions
 ### Prerequisites
@@ -117,6 +117,8 @@ Refer to LICENSE.md for more details.
 ## Acknowledgments
 - Developed as part of an academic curriculum  
 - [Node.js Documentation](https://nodejs.org/en/docs)  
-- [MySQL Documentation](https://dev.mysql.com/doc/)  
+- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [AngularJS Documentation](https://docs.angularjs.org/)  
+- [Swiper.js Documentation](https://swiperjs.com/) 
  
 
