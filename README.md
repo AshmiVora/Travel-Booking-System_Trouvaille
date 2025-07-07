@@ -58,7 +58,7 @@ travelbooking/
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/143438558/463107405-fcc40f5e-2371-4049-b9d0-fd9039948d10.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250707%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250707T084323Z&X-Amz-Expires=300&X-Amz-Signature=c86cc4356a78e3c29fb4cfd26fcab7cf14d26117fbda4ac8e34af43b708a59a1&X-Amz-SignedHeaders=host)
+![Homepage Screenshot](https://github.com/user-attachments/assets/6463d668-fe2c-4670-9074-8bfb12fe984f)
 
 ### Booking Interface
 ![Login Screenshot](https://github.com/user-attachments/assets/04a0313c-c1a8-4353-bb16-d3e7d6f1231a)
