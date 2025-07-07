@@ -55,7 +55,7 @@ travelbooking/
 │   └── tr.sql                # MySQL database schema
 
 ```
-## Screenshots
+## Preview
 
 ### Homepage
 ![Homepage Screenshot](https://github.com/user-attachments/assets/6463d668-fe2c-4670-9074-8bfb12fe984f)
